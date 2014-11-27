@@ -36,3 +36,5 @@ Adam:
 - Create a program that takes in 5 numbers from
 	the user in a for loop. Add up all 5 numbers
 	and print the average. 
+
+	*EDIT*: Try to defend against non-valid characters, too.
